@@ -1,24 +1,5 @@
-# frontend
+# Cyprian Nyakundi 
 
-## Project setup
-```
-npm install
-```
+# Django student management app using Vue f=on frontend
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+link (https://github.com/cnyakundi/DJANGO-VUE-student-management-app)
